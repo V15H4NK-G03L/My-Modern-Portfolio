@@ -1,0 +1,8 @@
+> antialiased in one of the tailwind classes
+
+What do these do:
+> const inter = Inter({ subsets: ['latin'], variable: '--font-sans' });
+> const calistoga = Calistoga({ subsets: ['latin'], variable: '--font-serif', weight: ["400"] });
+
+Next.JS font-optimized library ?
+
